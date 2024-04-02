@@ -109,3 +109,4 @@ C:\Jas\DevOps\sample\SampleApp.Tests\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\Jas\DevOps\sample\SampleApp.Tests\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Jas\DevOps\sample\SampleApp.Tests\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Jas\DevOps\sample\SampleApp.Tests\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Jas\DevOps\sample\SampleApp.Tests\obj\Debug\net6.0\SampleApp.Tests.sourcelink.json

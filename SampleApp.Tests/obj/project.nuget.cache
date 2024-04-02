@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "AMHYsy61RvnAkVzgOnI3q/fUAWvmjBBb00mfbXwkw1k+FlQUoMCrKVNZkxFMHW3Lg2OXEaQK0l/9MHTW4rRGXA==",
+  "dgSpecHash": "Sa6KQQZ5P6tt1A1HHdeMG12vxwGs4hq4IJB/YtWQ2SKmeewF2DhOkBQ7eFPFkhMoSGExupm6PrES8Nwsd9PPKQ==",
   "success": true,
   "projectFilePath": "C:\\Jas\\DevOps\\sample\\SampleApp.Tests\\SampleApp.Tests.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\jasdeepsingh01\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\jasdeepsingh01\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.1.0\\microsoft.testplatform.objectmodel.17.1.0.nupkg.sha512",
     "C:\\Users\\jasdeepsingh01\\.nuget\\packages\\microsoft.testplatform.testhost\\17.1.0\\microsoft.testplatform.testhost.17.1.0.nupkg.sha512",
+    "C:\\Users\\jasdeepsingh01\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\jasdeepsingh01\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\jasdeepsingh01\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\jasdeepsingh01\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",

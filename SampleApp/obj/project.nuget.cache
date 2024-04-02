@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "1fHGCqyeGgf6P7Hwz8CruIWRi/pNJqYRfmGA6YmHqCzPBvy9l6poRVLdfqHCb+SrJ2N609zBTtT92hDf+R6DiQ==",
+  "dgSpecHash": "83JEoduZSZoZlDIGOXKBKcYBQkzQ/ulLJ6CBvMjeMWAE37Vv2aztDon94Of4CARmZTpjPKQ7TVkV1ncvQusI5w==",
   "success": true,
   "projectFilePath": "C:\\Jas\\DevOps\\sample\\SampleApp\\SampleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jasdeepsingh01\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\jasdeepsingh01\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\jasdeepsingh01\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\jasdeepsingh01\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
     "C:\\Users\\jasdeepsingh01\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"

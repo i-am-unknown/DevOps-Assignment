@@ -30,3 +30,4 @@ C:\Jas\DevOps\sample\SampleApp\obj\Debug\net6.0\SampleApp.csproj.AssemblyReferen
 C:\Jas\DevOps\sample\SampleApp\obj\Debug\net6.0\SampleApp.MvcApplicationPartsAssemblyInfo.cs
 C:\Jas\DevOps\sample\SampleApp\obj\Debug\net6.0\SampleApp.csproj.CopyComplete
 C:\Jas\DevOps\sample\SampleApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Jas\DevOps\sample\SampleApp\obj\Debug\net6.0\SampleApp.sourcelink.json
